@@ -39,7 +39,7 @@ La sección de "Juegos" ofrece a los usuarios alternativas de entretenimiento sa
 <table align="center">
   <tr>
     <td align="center">
-    <h3 align="center">Technical Leader </h3>
+    <h3 align="center">Team Leader </h3>
       <img src="https://github.com/VickyNata.png" alt="Victoria Natalini" height=200 width=200>
       <br>
       <strong>Victoria Natalini</strong>
