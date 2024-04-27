@@ -8,8 +8,8 @@
 <br>
 <br>
 <div align=center >
-    <a href="#"><img src="https://img.shields.io/badge/Deploy-%230082CE.svg?logo=google-chrome&logoColor=white" alt="Centro médico Cousin" style="height: 30px;"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Dise%C3%B1o-%23F24E1E.svg?logo=figma&logoColor=white" alt="Diseño" style="height: 30px;"></a>
+    <a href="https://aware-gaming.web.app/"><img src="https://img.shields.io/badge/Deploy-%230082CE.svg?logo=google-chrome&logoColor=white" alt="Aware gaming" style="height: 30px;"></a>
+    <a href="https://www.figma.com/file/ynNFMZSNhqUll7grrDczVd/casino-game"><img src="https://img.shields.io/badge/Dise%C3%B1o-%23F24E1E.svg?logo=figma&logoColor=white" alt="Diseño" style="height: 30px;"></a>
 </div>
 <h2 align="center">¿Qué puedes encontrar en nuestro sitio web?</h2>
 <ul>
