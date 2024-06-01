@@ -3,7 +3,7 @@
 <h2>Bienvenido a nuestro proyecto!</h2>
 <p>Un lugar destinado a ayudar a personas que enfrentan dificultades con el juego y las apuestas. Nuestra página web tiene como objetivo principal proporcionar un ambiente seguro y solidario donde los usuarios puedan acceder a recursos, información y comunidad para manejar sus hábitos de juego de manera saludable y controlada. En lugar de fomentar el juego irresponsable, premiamos y celebramos aquellos momentos en los que los usuarios optan por jugar y apostar de manera moderada, alentándolos a tomar decisiones conscientes y saludables para su bienestar emocional y financiero. Únete a nosotros en este viaje hacia una vida libre de los riesgos asociados con el juego problemático y descubre una comunidad solidaria lista para brindarte apoyo en cada paso del camino.</p>
 <div align=center >
-    <img src="https://res.cloudinary.com/dnxjwcku6/image/upload/v1713282439/Group_1000004234-min_uj3vv7.png" class="img-logo" alt="Centro médico Cousin" height=250 >
+    <a href="https://www.youtube.com/watch?v=xdvnvosPAFk"><img src="https://res.cloudinary.com/dnxjwcku6/image/upload/v1713282439/Group_1000004234-min_uj3vv7.png" class="img-logo" alt="Centro médico Cousin" height=250 ></a>
 </div>
 <br>
 <br>
@@ -234,7 +234,7 @@ La sección de "Juegos" ofrece a los usuarios alternativas de entretenimiento sa
   <img src="https://img.shields.io/badge/Java%20-grey?style=flat&logo=java&logoColor=%2361DAFB&labelColor=191919&color=%23E8E8E8" alt="React JS" style="height: 30px;">
   <img src="https://img.shields.io/badge/PostgreSQL%20-grey?style=flat&logo=PostgreSQL&logoColor=%2496ED&labelColor=191919&color=%23E8E8E8" alt="TypeScript" style="height: 30px;">
   <img src="https://img.shields.io/badge/Docker%20-grey?style=flat&logo=Docker&logoColor=%2496ED&labelColor=191919&color=%23E8E8E8" alt="HTML/CSS" style="height: 30px;">
-<img src="https://img.shields.io/badge/Swagger%20-grey?style=flat&logo=Swagger&logoColor=85EA2D&labelColor=191919&color=%23E8E8E8" alt="HTML/CSS" style="height: 30px;">
+  <a href="https://aware-gaming.onrender.com/swagger-ui/index.html#/"><img src="https://img.shields.io/badge/Swagger%20-grey?style=flat&logo=Swagger&logoColor=85EA2D&labelColor=191919&color=%23E8E8E8" alt="HTML/CSS" style="height: 30px;"></a>
   <img src="https://img.shields.io/badge/Spring%20Security%20-grey?style=flat&logo=springsecurity&logoColor=fefefe&labelColor=6DB33F&color=%23E8E8E8" alt="TailwindCSS" style="height: 30px;">
   <img src="https://img.shields.io/badge/Hibernate%20-grey?style=flat&logo=Hibernate&logoColor=fefefe&labelColor=59666C&color=%23E8E8E8" alt="MySQL" style="height: 30px;">
 </div>
